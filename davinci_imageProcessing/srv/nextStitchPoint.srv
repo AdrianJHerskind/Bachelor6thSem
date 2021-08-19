@@ -1,0 +1,5 @@
+---
+uint32 EntryX
+uint32 EntryY
+uint32 ExitX
+uint32 ExitY

@@ -1,0 +1,7 @@
+<launch>
+
+<node name="davinci_suturing_node" pkg="davinci_suturing" type="davinci_suturing_node" />
+
+<node name="trajectory_listener" pkg="davinci_suturing" type="trajectory_listener" />
+
+</launch>
